@@ -8,7 +8,7 @@ After the covid-19, I'll go to the laboratory and upload my project!
 
 
 ## Citation
-If you find LWANet useful in your research, please consider citing:
+If you find DMNet useful in your research, please consider citing:
 
 ```
 @inproceedings{wang2021efficient,
