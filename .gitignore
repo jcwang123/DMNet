@@ -1,2 +1,9 @@
-net/
+net/BiseNet
+net/light-weight-refinenet-master
+net/MobileNetRefine
+net/TDNet
+net/TernausNet
+net/TorchSeg
+net/unet
+net/utils
 scripts/

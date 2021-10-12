@@ -7,6 +7,10 @@ Get the full paper on [Arxiv](https://arxiv.org/abs/2109.13593).
 ![bat](./framework.jpg)
 Fig. 1. Structure of DMNet.
 
+## Message
+We have updated the codes of Efficient LA and GA. As the active selection is used only at inferrence and written in jupyter, we will update this part later. -- by 10/12
+
+
 ## Code List
 
 - [x] Pre-processing
