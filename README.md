@@ -15,7 +15,7 @@ We have updated the codes of Efficient LA and GA. As the active selection is use
 
 - [x] Pre-processing
 - [x] Training Codes
-- [ ] Network
+- [x] Network
 
 For more details or any questions, please feel easy to contact us by email ^\_^
 
