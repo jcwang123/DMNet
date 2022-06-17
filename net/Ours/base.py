@@ -4,8 +4,8 @@ import sys, time, os
 
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), '../../'))
 
-from net.utils.helpers import maybe_download
-from net.utils.layer_factory import conv1x1, conv3x3, convbnrelu, CRPBlock
+# from net.utils.helpers import maybe_download
+# from net.utils.layer_factory import conv1x1, conv3x3, convbnrelu, CRPBlock
 from net.LSTM.torch_convlstm import ConvLSTM
 from net.LSTM.bottlenecklstm import BottleneckLSTM
 from net.LSTM.grouplstm import GroupLSTM
